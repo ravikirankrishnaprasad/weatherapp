@@ -1,0 +1,11 @@
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/Prediction.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/ErrorResponse.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/WeatherChannel.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/constants/WeatherResponse.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/Wind.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/Weather.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/WeatherMain.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/WeatherappApplication.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/service/PredictionService.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/controller/WeatherController.java
+/Users/ravikirankrishnaprasad/git/weatherapp/src/main/java/com/sapient/weather/model/Cloud.java
